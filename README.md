@@ -10,12 +10,10 @@ The algorithm starts out greedy and improves with limited optimization, and quic
 
 <h1>Support and Languages that Used</h2>
 
-ASP.NET	--> View on Map<br />
+ASP.NET WebForms	--> View on Map<br />
 C# --> Coordinates with Back-End<br />
 Javascript --> With Google Maps API Key<br />
-MSSQL --> Coordinates that stored<br />
+MSSQL --> Database<br />
 Google Maps API	--> View on Map with .NET and get distance between two coordinates<br />
 JSON Parse	--> Parse JSON format for distance and time<br />
 GPS Bounding Box	--> Coordinates need allocate<br />
-HTTPUtility	--> in .NET platform, using with Web API<br />
-Web Client	--> for get distance<br />
